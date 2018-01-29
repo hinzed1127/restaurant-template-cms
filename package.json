@@ -1,5 +1,9 @@
 {
   "name": "victor-hugo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hinzed1127/restaurant-template-cms"
+  },
   "version": "1.0.0",
   "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
   "main": "index.js",
